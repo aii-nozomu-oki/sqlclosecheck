@@ -1,4 +1,4 @@
-module github.com/ryanrolds/sqlclosecheck
+module github.com/aii-nozomu-oki/sqlclosecheck
 
 go 1.20
 

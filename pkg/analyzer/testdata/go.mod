@@ -1,4 +1,4 @@
-module github.com/ryanrolds/sqlclosecheck/pkg/analyzer/testdata
+module github.com/aii-nozomu-oki/sqlclosecheck/pkg/analyzer/testdata
 
 go 1.21
 
