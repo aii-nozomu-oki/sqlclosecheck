@@ -59,7 +59,7 @@ golang.org/x/text/transform
 golang.org/x/text/unicode/bidi
 golang.org/x/text/unicode/norm
 golang.org/x/text/width
-# golang.org/x/tools v0.12.1-0.20230810210603-6b4d1de19b45
+# golang.org/x/tools v0.12.1-0.20230814141246-f4c86275ba5b
 ## explicit; go 1.18
 golang.org/x/tools/go/analysis
 golang.org/x/tools/go/analysis/analysistest
