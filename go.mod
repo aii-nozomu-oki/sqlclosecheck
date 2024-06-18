@@ -6,7 +6,7 @@ require (
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/jackc/pgx/v5 v5.4.3
 	github.com/jmoiron/sqlx v1.3.5
-	golang.org/x/tools v0.12.1-0.20230816192654-b225aa0590e7
+	golang.org/x/tools v0.12.1-0.20230810210603-6b4d1de19b45
 )
 
 require (
